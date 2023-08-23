@@ -1,0 +1,24 @@
+.odd {
+  font-family: "Verdana", "Dejavu Sans", sans-serif;
+  background-color: #fc7be0;
+}
+
+/* body > *:nth-child(odd) {
+  font-family: "Verdana", "Dejavu Sans", sans-serif;
+  background-color: #fc7be0;
+} */
+
+#second {
+  color: #0b0be1;
+  font-size: 36px;
+}
+
+#fourth {
+  background-color: #00ff00;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.large-font {
+  font-size: 24px;
+}
